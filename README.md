@@ -8,5 +8,5 @@ Multi Agent Framework to search and summarize latest news about the given topic.
 
 ## Summarizer
 
-- Summarises the retrived news articles
+- Summarizes the retrived news articles
 - LLM used - llama3 using ollama
